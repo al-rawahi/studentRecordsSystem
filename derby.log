@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 13 23:44:02 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0180-bf97-de2e-00000fb9d1a0 
+on database directory /Users/alwarith/Desktop/project_stage1/studentRecordDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@404b9385 
+Loaded from file:/Users/alwarith/Desktop/db-derby-10.10.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=/Users/alwarith/Desktop/project_stage1
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

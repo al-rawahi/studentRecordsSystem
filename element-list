@@ -1,0 +1,8 @@
+module:com.example.project_stage1
+com.example.project_stage1.controller
+com.example.project_stage1.lists
+com.example.project_stage1.main
+com.example.project_stage1.objects
+com.example.project_stage1.sorting
+com.example.project_stage1.specialClasses
+com.example.project_stage1.tabs
